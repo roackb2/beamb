@@ -8,12 +8,21 @@ without struggling to put everything together.
 
 
 to start with beamb,
+
+
 ``
 git clone https://github.com/roackb2/beamb.git
 ``
+
+
 change folder name of beamb to whatever you wnat, ex. test
+
+
 ``
 cd test
+
 npm install
 ``
+
+
 and start to write code!~
