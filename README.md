@@ -20,7 +20,6 @@ change folder name of beamb to whatever you wnat, ex. test
 
 ``
 cd test
-
 npm install
 ``
 
